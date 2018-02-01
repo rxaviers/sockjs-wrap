@@ -1,6 +1,6 @@
 {
-  "name": "sockjs-wrap",
-  "version": "1.6.0",
+  "name": "sockjs-wrap-2",
+  "version": "1.0.0",
   "description": "Wrapper for SockJS connections on Node - Add events and client callbacks.",
   "main": "server.js",
   "directories": {
@@ -12,6 +12,8 @@
   },
   "keywords": [
     "sockjs",
+    "reconnect",
+    "auto-reconnect",
     "event",
     "events",
     "node",
